@@ -3,6 +3,8 @@
 
 KilterGAN is a Generative Adversarial Network (GAN) designed to create climbing problems for kilter boards. This repository contains the necessary notebooks for data preparation, exploratory data analysis, GAN model training, and classification.
 
+https://www.youtube.com/watch?v=kHWPWw2Vgi0
+
 ## Table of Contents
 
 - [Installation](#installation)
