@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=kHWPWw2Vgi0
 Clone this repository to your local machine:
 
 \`\`\`bash
-git clone https://github.com/yourusername/KilterGAN.git
+git clone https://github.com/matthewaaa123/KilterGAN.git
 \`\`\`
 
 Navigate to the project directory:
